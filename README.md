@@ -1,5 +1,8 @@
 # Shopify Theme Protector 🛡️
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D14-brightgreen.svg)](https://nodejs.org)
+
 A lightweight, automated Node.js tool for Shopify Theme Developers to protect their themes from unauthorized use and piracy. 
 
 ## How it works
