@@ -1,7 +1,7 @@
 {
   "name": "theme-protector",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js tool that locks Shopify theme JS to an authorized store domain via obfuscated code injection, protecting against theme piracy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
